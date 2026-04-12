@@ -1,0 +1,13 @@
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.DS_Store
+.streamlit/secrets.toml
+runs/*.json
+!runs/.gitkeep
+
