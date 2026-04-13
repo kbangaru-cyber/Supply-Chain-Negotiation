@@ -1,0 +1,6 @@
+anthropic==0.94.0
+langgraph==1.1.6
+langfuse==4.2.0
+streamlit==1.56.0
+python-dotenv==1.2.2
+plotly==6.7.0
