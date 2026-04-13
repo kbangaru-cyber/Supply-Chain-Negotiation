@@ -223,6 +223,34 @@ The screenshot below shows the `Negotiation` tab layout, including the run selec
 
 ![Negotiation UI Example](images/UI_negotiation_panel.png)
 
+### Prototype Screens
+
+The images below summarize the simulation concept and the staged dashboard flow used in the prototype.
+
+#### Simulation Template
+
+This image shows the overall simulation framing and the high-level workflow the prototype is designed to capture.
+
+![Simulation Template](images/Simulation_template.jpg)
+
+#### Initial Stage Example
+
+This image shows the initial setup view, including the starting negotiation context before the turns unfold.
+
+![Initial Stage Example](images/initial_stage_example.jpg)
+
+#### Simulation Stage 1
+
+This image illustrates the first negotiation stage, where the supplier and manufacturer negotiate the upstream price.
+
+![Simulation Stage 1](images/simulation_stage-1.jpg)
+
+#### Simulation Stage 2
+
+This image illustrates the second negotiation stage, where the manufacturer renegotiates downstream with the retailer using the updated margin-constrained price floor.
+
+![Simulation Stage 2](images/simulation_stage-2.jpg)
+
 ## How To Test
 
 There is currently no separate automated test suite in the repo. The main validation path is:
