@@ -1,13 +1,10 @@
-.venv/
-.tmp/
+.env
 __pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.coverage
-htmlcov/
-.DS_Store
-.streamlit/secrets.toml
-runs/*.json
-!runs/.gitkeep
+*.pyc
+.venv/
+runs/
+page_*.png
+lang_test/
+tmp/
+.claude/
 
